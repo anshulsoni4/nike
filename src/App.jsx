@@ -1,5 +1,5 @@
 import { CustomerReviews, Footer, Hero, PopularProducts, SuperQuality, Services, Subscribe, SpecialOffer } from "./sections";
-
+import Nav from "./components/Nav";
 
 const App = () => (
   <main className="relative">

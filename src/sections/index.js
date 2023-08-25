@@ -7,9 +7,6 @@ import CustomerReviews from "./sections/CustomerReviews";
 import Subscribe from "./sections/Subscribe";
 import Footer from "./sections/Footer";
 
-
- 
-
 export {
     Hero,
     PopularProducts,
